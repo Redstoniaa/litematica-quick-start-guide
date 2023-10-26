@@ -1,7 +1,7 @@
 # Installation
 
 [Home](../home.md)\
-Next: []()
+Next: [Modifying and pasting in a creative copy](creative_copy.md)
 
 ---
 
@@ -16,4 +16,4 @@ Next: []()
 ---
 
 [Home](../home.md)\
-Next: []()
+Next: [Modifying and pasting in a creative copy](creative_copy.md)
