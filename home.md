@@ -1,7 +1,7 @@
 # Litematica Quick Start Guide
 
 ## Introduction
-`.litematic` files are a very common way to share technical builds with others. These are created using the **Litematica** mod, which also provides you with the ability to rebuild those builds in your own survival worlds, by rendering a blueprint over the world which you can use to guide the building process, removing the need for a video tutorial.
+`*.litematic` files are a very common way to share technical builds with others. These are created using the **Litematica** mod, which also provides you with the ability to rebuild those builds in your own survival worlds, by rendering a blueprint over the world which you can use to guide the building process, removing the need for a video tutorial.
 
 The aim of this guide is to guide you through the process of:
 1. **Install Litematica and other required mods, as well as the Fabric mod loader.**
@@ -27,4 +27,4 @@ If you prefer to learn with the use of a video guide, [here is a great one by Ry
   - Verifying the schematic
 
 ### Auxiliary
-- [Getting to your `.minecraft` folder](auxiliary/navigating_minecraft_directory.md)
+- [Navigating the `.minecraft` folder](auxiliary/navigating_minecraft_directory.md)
