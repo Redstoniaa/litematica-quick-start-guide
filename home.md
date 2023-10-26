@@ -20,7 +20,7 @@ Nope! Litematica is a fully client-side mod, so you don't need to have anything 
 ## Guide
 If you prefer to learn with the use of a video guide, [here is a great one by RyanTheScion](https://www.youtube.com/watch?v=KFzyNtyN8qI).
 
-- Installation
+- [Installation](guide/installation.md)
 - Modifying and testing in a creative copy
 - Building in survival
   - Building tips
