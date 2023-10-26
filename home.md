@@ -27,5 +27,4 @@ If you prefer to learn with the use of a video guide, [here is a great one by Ry
   - Verifying the schematic
 
 ### Auxiliary
-- Getting to your `.minecraft` folder
-  - Finding your schematics folder
+- [Getting to your `.minecraft` folder](auxiliary/navigating_minecraft_directory.md)

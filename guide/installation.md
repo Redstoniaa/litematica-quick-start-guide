@@ -11,7 +11,7 @@ Next: []()
    - **[malilib](https://www.curseforge.com/minecraft/mc-mods/malilib/files)** by masa - a library mod required for Litematica to work.
    - **[Carpet](https://modrinth.com/mod/carpet)** by gnembon - for help in testing the build.
 3. **Place the mod `*.jar` files in your `.minecraft/mods` folder.**
-   - If you do not know how to get to your `.minecraft` folder, see the page: [Getting to your Minecraft folder]()
+   - If you do not know how to get to your `.minecraft` folder, see the page: [Navigating the `.minecraft` folder](../auxiliary/navigating_minecraft_directory.md)
 
 ---
 
