@@ -17,7 +17,9 @@ When making the copy, make sure you **copy over the following aspects**, for the
 
 ## Pasting the build
 1. Ensure you are in **creative mode**.
-2. Run the command: `/carpet fillUpdates false`
+2. Run one of these commands:
+   - `/carpet fillUpdates false` if using Carpet
+   - `//perf neighbors off` if using WorldEdit
    - This will ensure that nothing is triggered (for example, observers) while pasting the build in.
 3. Press `M` to **open Litematica's main menu.** Remember this keybind; it's central to Litematica.
 4. **Navigate into the `Configuration menu`**, and then along the list of tabs along the top, **go into `Hotkeys`**.
